@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Anya Spethmann]]></title>
         <description><![CDATA[Anya Spethmann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anya-spethmann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 09:27:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 09:34:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anya-spethmann/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dinner Place Setting - Paul Turale]]></title>
+            <description><![CDATA[<article><h1>Dinner Place Setting - Paul Turale</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42765aa21ef06aa4b8d07614b017eaff7a4343da.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/plwines_canada/16787592152/in/dateposted-public/</link>
+            <guid isPermaLink="false">55731ac1-7027-4563-8f89-5678c61fd06a</guid>
+            <pubDate>Fri, 05 Feb 2016 09:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In which I finally snap at mansplaining ...]]></title>
             <description><![CDATA[<article><h1>In which I finally snap at mansplaining ...</h1><p>In the immortal (though contextually unrelated) words of Nikki Minaj: “Somebody please tell him who the f I is …”</p></article>]]></description>
-            <link>undefinedin-which-i-finally-snap-at-mansplaining-/index.html</link>
+            <link>https://thegrid.ai/anya-spethmann/in-which-i-finally-snap-at-mansplaining-/index.html</link>
             <guid isPermaLink="false">7b843a2b-3312-45d2-9cd9-0b6ba4efc25e</guid>
             <pubDate>Fri, 05 Feb 2016 09:27:37 GMT</pubDate>
         </item>
